@@ -1,0 +1,39 @@
+                                                                     Objective 2(Pseudo code)
+
+Problem: Take three variables as input and add them without using the + operator 
+
+1. START
+// variable and Initialization
+2. SET a
+3. SET b
+4. SET c
+5. SET sum
+// Input / Output
+6. INPUT a
+7. INPUT b
+8. INPUT c
+// Process step
+9. SET sum= -(-a)-(-b)-(-c)
+// Input/output
+10. OUTPUT sum
+11. END
+
+Problem: Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with one being used for the operator)
+     
+1. START
+// variable/initialization
+2. SET a, b
+3. SET operator
+// Input/output
+4. INPUT a
+5. INPUT b
+6. INPUT operator
+//Conditional Statement
+7. IF operator == ‘+’ THEN
+8.     PRINT, a + b
+9. IF operator == ‘-’ THEN
+10.   PRINT, a – b
+11. ELSE
+12.   PRINT, enter valid operator
+13. END
+

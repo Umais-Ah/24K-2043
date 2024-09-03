@@ -11,3 +11,4 @@ number as well.
 4. Now check if divisor is even or odd
  If N % 2 == 0, PRINT “number is even”
  else, PRINT “number is odd”
+.
